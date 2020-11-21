@@ -116,7 +116,6 @@ only screen and (                min-resolution: 2dppx) {
 }
 .site-logo-link:hover{
   transform: scale(1.1);
-
 }
 .site-menu {
   width: 749px;
@@ -178,7 +177,6 @@ only screen and (                min-resolution: 2dppx) {
   display: flex;
   align-items: center;
   justify-content: space-around;
-
 }
 .search-box-link {
   padding: 6px 14px;
@@ -709,9 +707,7 @@ border-radius: 0px 0px 30px 30px;
   line-height: 20px;
   color: #000000;
 }
-.site-footer {
 
-}
 .footer-wrapper {
   padding-top: 40px;
   padding-bottom: 40px;
